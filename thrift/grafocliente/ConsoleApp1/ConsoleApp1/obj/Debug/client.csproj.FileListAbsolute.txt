@@ -1,0 +1,7 @@
+C:\Users\leona\Desktop\sd\trab1\grafocliente\ConsoleApp1\ConsoleApp1\obj\Debug\client.csprojResolveAssemblyReference.cache
+C:\Users\leona\Desktop\sd\trab1\grafocliente\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+C:\Users\leona\Desktop\sd\trab1\grafocliente\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
+C:\Users\leona\Desktop\sd\trab1\grafocliente\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+C:\Users\leona\Desktop\sd\trab1\grafocliente\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+C:\Users\leona\Desktop\sd\trab1\grafocliente\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+C:\Users\leona\Desktop\sd\trab1\grafocliente\ConsoleApp1\ConsoleApp1\bin\Debug\Thrift.dll

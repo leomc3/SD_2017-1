@@ -1,0 +1,7 @@
+C:\Users\leona\Desktop\sd\trab1\grafo\grafo\bin\Debug\grafo.exe.config
+C:\Users\leona\Desktop\sd\trab1\grafo\grafo\bin\Debug\grafo.exe
+C:\Users\leona\Desktop\sd\trab1\grafo\grafo\bin\Debug\grafo.pdb
+C:\Users\leona\Desktop\sd\trab1\grafo\grafo\bin\Debug\Thrift.dll
+C:\Users\leona\Desktop\sd\trab1\grafo\grafo\obj\Debug\grafo.csprojResolveAssemblyReference.cache
+C:\Users\leona\Desktop\sd\trab1\grafo\grafo\obj\Debug\grafo.exe
+C:\Users\leona\Desktop\sd\trab1\grafo\grafo\obj\Debug\grafo.pdb
